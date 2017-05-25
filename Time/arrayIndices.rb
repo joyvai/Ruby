@@ -8,6 +8,33 @@ a = [2,4,6,8,10,12]
 # p means print 
 p a[2..4]
 
+# it replace the key with value
+
 a[1..3] = ["a", "b", "c"]
 p a
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
